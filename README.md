@@ -10,7 +10,12 @@ Thanakorn Phongphet
 Student ID : 683020572-7
 STAT-DS
 
-### Abot Music
+### About Music
 Panadda Tappoomee
 Student ID : 683020583-2
+STAT-DS
+
+### About Aun
+Pittayaporn Ongthanarat
+Student ID : 683020054-9
 STAT-DS
