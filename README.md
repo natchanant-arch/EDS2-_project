@@ -1,4 +1,4 @@
-# EDS2-_project
+# EDS2_project
 EDS Project
 
 ### About me
