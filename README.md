@@ -4,3 +4,8 @@
 Natchanan Thongsuk 
 Student ID : 683020242-8
 STAT-DS
+
+### About May
+Thanakorn Phongphet
+Student ID : 683020572-7
+STAT-DS
