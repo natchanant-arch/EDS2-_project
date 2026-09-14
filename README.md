@@ -23,3 +23,5 @@ STAT-DS
 "This sentence is written on hub"
 "This sentence is written on hub"
 "This sentence is written on hub"
+
+"This sentence is written by nat"
