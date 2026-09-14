@@ -24,4 +24,5 @@ STAT-DS
 "This sentence is written on hub"
 "This sentence is written on hub"
 
-"This sentence is written by nat"
+"This sentence is written by nat (ณัฐชานันท์ ทองสุก)"
+"This sentence is written by may (ธนากร พงษ์เพชร)"
