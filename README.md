@@ -1,6 +1,6 @@
 # EDS2_project
 
-## About me
+## About Nat
 Natchanan Thongsuk 
 Student ID : 683020242-8
 STAT-DS
@@ -19,3 +19,5 @@ STAT-DS
 Pittayaporn Ongthanarat
 Student ID : 683020054-9
 STAT-DS
+
+This sentence is written on github
