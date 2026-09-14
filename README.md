@@ -20,4 +20,4 @@ Pittayaporn Ongthanarat
 Student ID : 683020054-9
 STAT-DS
 
-This sentence is written on github
+"This sentence is written on hub"
