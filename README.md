@@ -28,3 +28,4 @@ STAT-DS
 
 "This sentence is written by nat (ณัฐชานันท์ ทองสุก)"<br>
 "This sentence is written by may (ธนากร พงษ์เพชร)"<br>
+"This sentence is written by aun (พิทยาภรณ์ อึ้งธนารัตน์)"<br>
