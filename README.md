@@ -30,3 +30,18 @@ STAT-DS
 "This sentence is written by may (ธนากร พงษ์เพชร)"<br>
 "This sentence is written by aun (พิทยาภรณ์ อึ้งธนารัตน์)"<br>
 "This sentence is written by music (ปนัดดา ทัพภูมี)"<br>
+---
+## Create python environment
+`python3 -m venv .venv` - create the new python environment named `.venv`.
+`source .venv/bin/activate` - activate `.venv`
+`python -m pip insatll -r requirments.txt` - install library is in requirments.txt
+`pip install --upgrade pip` - upgrade version
+
+The fisrt python script file:
+```python
+import pandas
+print("Hello, World!")
+print("This is sample Python application.")
+df = pandas.DataFrame({'A': [1, 2, 3], 'B': [4, 5, 6]})
+print("My first DataFrame:")
+print(df)
